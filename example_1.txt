@@ -1,0 +1,2 @@
+# Hello Bangladesh
+# I am from example_1.txt file with Python I/O
